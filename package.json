@@ -1,0 +1,24 @@
+{
+  "name": "template_chrome_extension",
+  "version": "1.0.0",
+  "description": "Template Chrome Extension + Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinhpt07/template_chrome_extension.git"
+  },
+  "keywords": [
+    "Chrome",
+    "Extension",
+    "Webpack"
+  ],
+  "author": "vinhpt07@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinhpt07/template_chrome_extension/issues"
+  },
+  "homepage": "https://github.com/vinhpt07/template_chrome_extension#readme"
+}
